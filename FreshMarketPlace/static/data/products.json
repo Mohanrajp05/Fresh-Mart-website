@@ -1,0 +1,176 @@
+{
+  "vegetables": [
+    {
+      "id": "v1",
+      "name": "Tomato 1 kg",
+      "price": 30.0,
+      "category": "vegetables",
+      "image": "/static/images/Products/vegetables/Tomato 1 kg.jpg",
+      "description": "Fresh, ripe tomatoes perfect for salads and cooking.",
+      "stock": 50
+    },
+    {
+      "id": "v2",
+      "name": "Fresh Broccoli vegetable 500 g",
+      "price": 50,
+      "image": "/static/images/Products/vegetables/Fresh Broccoli vegetable 500 g.jpg",
+      "description": "Nutritious broccoli florets, rich in vitamins and minerals.",
+      "stock": 75
+    },
+    {
+      "id": "v3",
+      "name": "Onion 1 kg",
+      "price": 50,
+      "image": "/static/images/Products/vegetables/Onion 1 kg .jpg",
+      "description": "Essential cooking ingredient with strong flavor and aroma.",
+      "stock": 120
+    },
+    {
+      "id": "v4",
+      "name": "Carrot 1 kg",
+      "price": 50,
+      "image": "/static/images/Products/vegetables/Carrot 1 kg.jpg",
+      "description": "Sweet and crunchy carrots, perfect for snacking and cooking.",
+      "stock": 90
+    },
+    {
+      "id": "v5",
+      "name": "Green sweet pepper 1 kg",
+      "price": 80,
+      "image": "/static/images/Products/vegetables/Green sweet pepper 1 kg.jpg",
+      "description": "Mild and crisp green bell peppers for salads and stir-fries.",
+      "stock": 60
+    },
+    {
+      "id": "v6",
+      "name": "Fresh ginger root or rhizome 500 g",
+      "price": 60,
+      "image": "/static/images/Products/vegetables/Fresh ginger root or rhizome 500 g.jpg",
+      "description": "Aromatic ginger root for adding flavor to dishes and teas.",
+      "stock": 45
+    },
+    {
+      "id": "v7",
+      "name": "Green kidney bean 1 kg",
+      "price": 90,
+      "image": "/static/images/Products/vegetables/Green kidney bean 1 kg.jpg",
+      "description": "Tender green beans, rich in protein and fiber.",
+      "stock": 80
+    },
+    {
+      "id": "v8",
+      "name": "Fresh Garlic 1 kg",
+      "price": 80,
+      "image": "/static/images/Products/vegetables/Fresh Garlic 1 kg.jpg",
+      "description": "Pungent garlic bulbs, essential for flavoring dishes.",
+      "stock": 110
+    },
+    {
+      "id": "v9",
+      "name": "whole green cabbage 1 kg",
+      "price": 50,
+      "image": "/static/images/Products/vegetables/whole green cabbage  1 kg.jpg",
+      "description": "Crisp green cabbage for salads, stir-fries, and coleslaw.",
+      "stock": 65
+    },
+    {
+      "id": "v10",
+      "name": "Fresh Coriander",
+      "price": 50,
+      "image": "/static/images/Products/vegetables/Fresh Coriander.jpg",
+      "description": "Fragrant herb used in various cuisines for flavor and garnish.",
+      "stock": 40
+    },
+    {
+      "id": "v1742394395",
+      "name": "Lady finger1 kg",
+      "price": 45.0,
+      "category": "vegetables",
+      "image": "/static/images/Products/vegetables/Lady_finger1_kg.jpg",
+      "description": "Pure and fresh",
+      "stock": 20
+    }
+  ],
+  "fruits": [
+    {
+      "id": "f1",
+      "name": "Apple 1 kg",
+      "price": 120,
+      "image": "/static/images/Products/Fruits/Apple 1 kg.jpg",
+      "description": "Sweet and crunchy apples, perfect for snacking or baking.",
+      "stock": 85
+    },
+    {
+      "id": "f2",
+      "name": "Fresh Orange 1 kg",
+      "price": 80,
+      "image": "/static/images/Products/Fruits/Fresh Orange 1 kg.jpg",
+      "description": "Juicy citrus fruit, rich in vitamin C.",
+      "stock": 70
+    },
+    {
+      "id": "f3",
+      "name": "Fresh Pomegranate 1 kg",
+      "price": 200,
+      "image": "/static/images/Products/Fruits/Fresh Pomegranate 1 kg.jpg",
+      "description": "Ruby-red seeds packed with antioxidants and flavor.",
+      "stock": 50
+    },
+    {
+      "id": "f4",
+      "name": "Muskmelon 1 kg",
+      "price": 100,
+      "image": "/static/images/Products/Fruits/Muskmelon 1 kg..jpg",
+      "description": "Sweet, aromatic melon with tender orange flesh.",
+      "stock": 40
+    },
+    {
+      "id": "f5",
+      "name": "Custard Apple fruit",
+      "price": 70,
+      "image": "/static/images/Products/Fruits/Custard Apple fruit.jpg",
+      "description": "Unique tropical fruit with sweet, creamy flesh.",
+      "stock": 35
+    },
+    {
+      "id": "f6",
+      "name": "Green Apple fruit",
+      "price": 100,
+      "image": "/static/images/Products/Fruits/Green Apple fruit.jpg",
+      "description": "Tart and crisp green apples, ideal for cooking and snacking.",
+      "stock": 65
+    },
+    {
+      "id": "f7",
+      "name": "watermelon 1 kg",
+      "price": 50,
+      "image": "/static/images/Products/Fruits/watermelon 1 kg.jpg",
+      "description": "Refreshing and hydrating fruit with sweet red flesh.",
+      "stock": 30
+    },
+    {
+      "id": "f8",
+      "name": "Kiwi fruit 500 g",
+      "price": 100,
+      "image": "/static/images/Products/Fruits/Kiwi fruit 500 g.jpg",
+      "description": "Tangy-sweet green fruit with tiny black seeds.",
+      "stock": 55
+    },
+    {
+      "id": "f9",
+      "name": "Mango fruit 1 kg",
+      "price": 100,
+      "image": "/static/images/Products/Fruits/Mango  fruit 1 kg.jpg",
+      "description": "Sweet, juicy tropical fruit known as the king of fruits.",
+      "stock": 45
+    },
+    {
+      "id": "f10",
+      "name": "Banana 1 kg",
+      "price": 100,
+      "image": "/static/images/Products/Fruits/Banana 1 kg.jpg",
+      "description": "Energy-packed yellow fruit, perfect for quick snacks.",
+      "stock": 95
+    }
+  ]
+}
