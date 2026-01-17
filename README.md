@@ -1,2 +1,2 @@
-# Fresh-Mart-website
-FreshMarketPlace is a full-stack web application built with Flask and MongoDB Atlas, featuring a responsive Bootstrap 5 UI, dynamic pages using Jinja2, secure authentication with Werkzeug, and production deployment via Gunicorn.
+#FreshMart
+FreshMarketPlace is a full-stack e-commerce web application developed using **programming languages like (HTML , CSS, JAVA SCRIPT) for Frontend and Flask (Python) is used as Backend and MongoDB Atlas for Database**. It delivers a responsive and interactive user experience with Bootstrap 5, HTML/CSS, and JavaScript, supports dynamic server-side rendering through **Jinja2**, integrates MongoDB using PyMongo, ensures secure authentication with Werkzeug, and is deployed using the **Gunicorn WSGI **production server.
